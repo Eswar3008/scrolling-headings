@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
 
 1. Clone this repository to your local machine using:
     ```bash
-    git clone https://github.com/your-username/scrolling-headings.git
+    git clone https://github.com/Eswar3008/scrolling-headings.git
     ```
 
 2. Open the `index.html` file in your preferred web browser.
