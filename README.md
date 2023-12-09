@@ -1,6 +1,6 @@
 # Scrolling Headings
 
-This project demonstrates a simple web page that features multiple headings ("TECHNO") vertically arranged and animated based on scrolling behavior. The headings move dynamically in response to the user's scroll actions.
+This project demonstrates a simple web page that features multiple headings ("ER") vertically arranged and animated based on scrolling behavior. The headings move dynamically in response to the user's scroll actions.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -12,7 +12,7 @@ This project demonstrates a simple web page that features multiple headings ("TE
 
 ## Introduction
 
-This repository contains the necessary HTML, CSS, and JavaScript files to create a webpage displaying a series of "TECHNO" headings. The headings are styled and animated using CSS and JavaScript based on the user's scroll position on the page.
+This repository contains the necessary HTML, CSS, and JavaScript files to create a webpage displaying a series of "ER" headings. The headings are styled and animated using CSS and JavaScript based on the user's scroll position on the page.
 
 ## Features
 
@@ -32,7 +32,7 @@ To run this project locally, follow these steps:
 
 ## Usage
 
-Once the project is set up locally, open the `index.html` file in a web browser. Scroll through the page to see the animated "TECHNO" headings responding to the scroll action.
+Once the project is set up locally, open the `index.html` file in a web browser. Scroll through the page to see the animated "ER" headings responding to the scroll action.
 
 Feel free to modify the HTML, CSS, or JavaScript files to experiment with different designs or behaviors.
 
